@@ -1,0 +1,170 @@
+#  Copyright  (C)  2024  IO  Data
+#  This  file  is  distributed  under  the  GPL  v2  or  later.
+msgid  ""
+msgstr  ""
+"Project-Id-Version:  GA4  Server-Side  Tracking  for  WooCommerce  1.1.0\n"
+"Report-Msgid-Bugs-To:  https://wordpress.org/support/plugin/server-side-tracking-for-woocommerce-with-ga4-and-meta-pixel\n"
+"Last-Translator:  FULL  NAME  <EMAIL@ADDRESS>\n"
+"Language-Team:  LANGUAGE  <LL@li.org>\n"
+"MIME-Version:  1.0\n"
+"Content-Type:  text/plain;  charset=UTF-8\n"
+"Content-Transfer-Encoding:  8bit\n"
+"POT-Creation-Date:  2024-01-01T00:00:00+00:00\n"
+"PO-Revision-Date:  YEAR-MO-DA  HO:MI+ZONE\n"
+"X-Generator:  WP-CLI  2.8.1\n"
+"X-Domain:  server-side-tracking-for-woocommerce-with-ga4-and-meta-pixel\n"
+
+#.  Plugin  Name  of  the  plugin
+msgid  "Server-Side  Tracking  for  WooCommerce  with  GA4  and  Meta  Pixel"
+msgstr  ""
+
+#.  Plugin  URI  of  the  plugin
+msgid  "https://github.com/io-woo-invoicer/server-side-tracking-for-woocommerce-with-ga4-and-meta-pixel"
+msgstr  ""
+
+#.  Description  of  the  plugin
+msgid  "Sends  WooCommerce  events  (view_item,  add_to_cart,  remove_from_cart,  begin_checkout,  purchase,  refund)  directly  to  Google  Analytics  4  via  Measurement  Protocol."
+msgstr  ""
+
+#.  Author  of  the  plugin
+msgid  "IO  Data"
+msgstr  ""
+
+#.  Author  URI  of  the  plugin
+msgid  "https://iodata.work"
+msgstr  ""
+
+msgid  "GA4  Tracking"
+msgstr  ""
+
+msgid  "Server-Side  Tracking  for  WooCommerce  with  GA4  and  Meta  Pixel  Settings"
+msgstr  ""
+
+msgid  "Event  Logs"
+msgstr  ""
+
+msgid  "Settings  saved."
+msgstr  ""
+
+msgid  "Basic  Settings"
+msgstr  ""
+
+msgid  "Measurement  ID"
+msgstr  ""
+
+msgid  "Your  GA4  Measurement  ID  (e.g.,  G-XXXXXXXXXX)"
+msgstr  ""
+
+msgid  "API  Secret"
+msgstr  ""
+
+msgid  "Your  GA4  Measurement  Protocol  API  Secret"
+msgstr  ""
+
+msgid  "Debug  Mode"
+msgstr  ""
+
+msgid  "Enable  debug  mode"
+msgstr  ""
+
+msgid  "Logs  additional  debug  information  for  each  event"
+msgstr  ""
+
+msgid  "Events  to  Track"
+msgstr  ""
+
+msgid  "Select  which  events  to  track:"
+msgstr  ""
+
+msgid  "View  Item  (Product  Page  View)"
+msgstr  ""
+
+msgid  "View  Cart"
+msgstr  ""
+
+msgid  "Add  to  Cart"
+msgstr  ""
+
+msgid  "Remove  from  Cart"
+msgstr  ""
+
+msgid  "Begin  Checkout"
+msgstr  ""
+
+msgid  "Add  Payment  Info"
+msgstr  ""
+
+msgid  "Add  Shipping  Info"
+msgstr  ""
+
+msgid  "Purchase  (Order  Complete)"
+msgstr  ""
+
+msgid  "Payment  Failed"
+msgstr  ""
+
+msgid  "Refund  (Order  Refunded)"
+msgstr  ""
+
+msgid  "Save  Settings"
+msgstr  ""
+
+msgid  "GA4  Event  Logs"
+msgstr  ""
+
+msgid  "Clear  All  Logs"
+msgstr  ""
+
+msgid  "Clearing  logs..."
+msgstr  ""
+
+msgid  "Are  you  sure  you  want  to  clear  all  logs?"
+msgstr  ""
+
+msgid  "Logs  cleared  successfully"
+msgstr  ""
+
+msgid  "Failed  to  clear  logs"
+msgstr  ""
+
+msgid  "ID"
+msgstr  ""
+
+msgid  "Event  Name"
+msgstr  ""
+
+msgid  "Event  Parameters"
+msgstr  ""
+
+msgid  "Response  Code"
+msgstr  ""
+
+msgid  "Response  Body"
+msgstr  ""
+
+msgid  "Debug  Info"
+msgstr  ""
+
+msgid  "Timestamp"
+msgstr  ""
+
+msgid  "No  events  logged  yet."
+msgstr  ""
+
+msgid  "Page"
+msgstr  ""
+
+msgid  "of"
+msgstr  ""
+
+msgid  "Previous"
+msgstr  ""
+
+msgid  "Next"
+msgstr  ""
+
+msgid  "View  Debug"
+msgstr  ""
+
+msgid  "Close"
+msgstr  ""
